@@ -1,5 +1,7 @@
 Package: humidity
 Type: Package
 Title: Package for Computing Dew Point and Wet Bulb Temperature and RH
+Authors@R: person("Keith", "Jennings", email = "keith.jennings@colorado.edu",
+                  role = c("aut", "cre"))
 Version: 1.0
 RoxygenNote: 6.1.1
