@@ -1,0 +1,5 @@
+Package: humidity
+Type: Package
+Title: Package for Computing Dew Point and Wet Bulb Temperature and RH
+Version: 1.0
+RoxygenNote: 6.1.1
