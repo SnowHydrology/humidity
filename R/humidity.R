@@ -37,7 +37,7 @@ wetbulb <- function(TAIR, RH){
       atan(TAIR + RH) -
       atan(RH - 1.676331) +
       ((0.00391838 * (RH ^ 1.5)) * atan(0.023101 * RH)) -
-      4.86035
+      4.686035
 } 
 
 #' Relative humidity conversion
